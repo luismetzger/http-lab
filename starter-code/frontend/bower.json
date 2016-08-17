@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "homepage": "https://github.com/luismetzger/http-lab",
+  "authors": [
+    "luismetzger <luismetzger@me.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
